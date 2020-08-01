@@ -1,3 +1,2 @@
 include ':sparkrecyclerview'
 include ':demo'
-rootProject.name = "SparkRecyclerView"
