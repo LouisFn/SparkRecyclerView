@@ -1,6 +1,18 @@
 # SparkRecyclerView
 
-## License 
+### Gradle Setup
+
+```gradle
+repositories {
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    implementation 'com.github.LouisFn:SparkRecyclerView:0.9.0'
+}
+```
+
+### License 
 Copyright 2020 Louis FARIN
 
 Licensed under the Apache License, Version 2.0 (the "License");
